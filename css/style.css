@@ -202,19 +202,22 @@ header .navbar-inner {
   text-decoration: none;
 }
 .sf-menu ul {
+
   position: absolute;
   list-style: none;
   z-index: 10;
-  width: 145px;
+  width: 150px;
   top: 23px !important;
-  left: -55px !important;
+  left: -60px !important;
   display: none;
   overflow: visible;
   background: #7d1c00;
 }
 .sf-menu ul li {
+
   position: relative;
-  text-align: center;
+  text-align: right;
+  padding-right: 5px;
   margin-bottom: -7px;
 }
 .sf-menu ul li:first-child {
