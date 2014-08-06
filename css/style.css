@@ -205,9 +205,9 @@ header .navbar-inner {
   position: absolute;
   list-style: none;
   z-index: 10;
-  width: 137px;
+  width: 145px;
   top: 23px !important;
-  left: -48px !important;
+  left: -55px !important;
   display: none;
   overflow: visible;
   background: #7d1c00;
