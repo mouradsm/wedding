@@ -1,7 +1,5 @@
 <?php
 
-ini_set("SMTP","smtp.example.com" );
-
 
 $owner_email = $_POST["owner_email"];
 	$headers = 'From:' . $_POST["email"];
