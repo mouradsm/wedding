@@ -302,6 +302,7 @@ header .navbar-inner {
 .inner {
   background-color: #ffffff;
   padding: 25px 0;
+  height: 605px;
 }
 .inner > div {
   padding-bottom: 0px;
