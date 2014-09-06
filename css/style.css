@@ -237,7 +237,7 @@ header .navbar-inner {
   transition: all 0.5s ease-out;
 }
 .sf-menu ul li a.hoverItem {
-  color: #f3b978 !important;
+  color: #E35885 !important;
 }
 .sf-menu ul ul {
   left: -139px !important;
