@@ -6,7 +6,7 @@ body {
   background: #bb5e36;
   font: 12px Arial, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 20px;
-  color: #b58f70;
+  color: #831F5F;
   min-width: 1000px;
   min-height: 1100px;
 }
@@ -42,7 +42,7 @@ h2 {
   font: 69.96000000000001px 'BenchNine';
   line-height: 1.2em;
   text-transform: lowercase;
-  color: #9b3002;
+  color: #831F5F;
   letter-spacing: -3px;
   padding-bottom: 6px;
 }
@@ -75,7 +75,7 @@ h3 a:hover,
 time a:hover,
 .fontStyle1 a:hover {
   text-decoration: none;
-  color: #9b3002;
+  color: #831F5F;
 }
 address {
   font-style: normal;
@@ -129,7 +129,7 @@ header h1 a {
   width: 100%;
   margin: 14px auto;
   display: none;
-  color: #b58f70;
+  color: #831F5F;
 }
 header .navbar {
   margin-bottom: 0;
@@ -198,7 +198,7 @@ header .navbar-inner {
 }
 .sf-menu > li > a:hover > span,
 .sf-menu > li > a.activeLink > span {
-  color: #9b3002;
+  color: #831F5F;
   text-decoration: none;
 }
 .sf-menu ul {
@@ -268,7 +268,7 @@ header .navbar-inner {
   box-shadow: 0 0 0;
   padding: 5px 10px;
   line-height: 21px;
-  color: #b58f70;
+  color: #831F5F;
   background: #fbeed5;
 }
 #wrapper input:focus,
@@ -409,7 +409,7 @@ header .navbar-inner {
 }
 .btn.btn-link:hover,
 .btn.btn-link:active {
-  color: #9b3002;
+  color: #831F5F;
   background: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -428,7 +428,7 @@ header .navbar-inner {
   line-height: 20px;
   text-transform: uppercase;
   color: #ffffff;
-  background: #9b3002;
+  background: #831F5F;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
@@ -445,7 +445,7 @@ header .navbar-inner {
 }
 .btn:hover,
 .btn:active {
-  color: #9b3002;
+  color: #831F5F;
   background: #fbeed5;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -573,7 +573,7 @@ hr {
 .paginationHolder .pagination li a:hover,
 .paginationHolder .pagination li.active > a {
   text-decoration: none;
-  color: #9b3002;
+  color: #831F5F;
 }
 .match {
   display: block;
@@ -581,7 +581,7 @@ hr {
 }
 .search_list .search {
   width: auto;
-  color: #9b3002;
+  color: #831F5F;
 }
 .search_title a {
   text-decoration: underline;
