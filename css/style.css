@@ -272,7 +272,7 @@ header .navbar-inner {
   padding: 5px 10px;
   line-height: 21px;
   color: #831F5F;
-  background: #fbeed5;
+  background: #fba0bf;
 }
 #wrapper input:focus,
 #wrapper textarea:focus {
@@ -449,7 +449,7 @@ header .navbar-inner {
 .btn:hover,
 .btn:active {
   color: #831F5F;
-  background: #fbeed5;
+  background: #fba0bf;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
@@ -623,7 +623,7 @@ iframe {
   right: 1px;
   top: 2px;
   padding: 0;
-  background: #fbeed5;
+  background: #fba0bf;
 }
 .outside ._shuttle {
   cursor: pointer !important;
@@ -686,7 +686,7 @@ iframe {
   z-index: 10;
   text-align: center;
   width: 250px;
-  background: #fbeed5;
+  background: #fba0bf;
   border: none;
 }
 #form1 textarea {
@@ -759,7 +759,7 @@ iframe {
   z-index: 10;
   text-align: center;
   width: 352px;
-  background: #fbeed5;
+  background: #fba0bf;
   border: none;
 }
 #form2 textarea {
