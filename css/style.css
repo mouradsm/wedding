@@ -6,7 +6,7 @@ body {
   background: #8FC1BE;
   font: 12px Arial, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 20px;
-  color: #b58f70;
+  color: #E35885;
   min-width: 1000px;
   min-height: 1100px;
 }
@@ -75,7 +75,7 @@ h3 a:hover,
 time a:hover,
 .fontStyle1 a:hover {
   text-decoration: none;
-  color: #9b3002;
+  color: #e35885;
 }
 address {
   font-style: normal;
@@ -573,7 +573,7 @@ hr {
 .paginationHolder .pagination li a:hover,
 .paginationHolder .pagination li.active > a {
   text-decoration: none;
-  color: #9b3002;
+  color: #e35885;
 }
 .match {
   display: block;

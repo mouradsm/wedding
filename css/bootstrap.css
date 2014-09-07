@@ -151,7 +151,7 @@ body {
   background-color: #bb5e36;
 }
 a {
-  color: #eea450;
+  color: #A592DC;
   text-decoration: none;
 }
 a:hover {
@@ -3150,7 +3150,7 @@ input[type="submit"].btn.btn-mini {
   border-radius: 0;
 }
 .btn-link:hover {
-  color: #dc7f15;
+  color: #E35885;
   text-decoration: underline;
   background-color: transparent;
 }
