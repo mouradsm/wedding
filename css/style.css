@@ -391,7 +391,7 @@ header .navbar-inner {
   font: 700 20.04px 'BenchNine';
   line-height: 20px;
   text-transform: uppercase;
-  color: #ed9d44;
+  color: #ADB5ED;
   background: none;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -409,7 +409,7 @@ header .navbar-inner {
 }
 .btn.btn-link:hover,
 .btn.btn-link:active {
-  color: #9b3002;
+  color: #7456AE;
   background: none;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
