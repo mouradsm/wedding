@@ -428,7 +428,7 @@ header .navbar-inner {
   line-height: 20px;
   text-transform: uppercase;
   color: #ffffff;
-  background: #9b3002;
+  background: #7456AE;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
@@ -445,7 +445,7 @@ header .navbar-inner {
 }
 .btn:hover,
 .btn:active {
-  color: #9b3002;
+  color: #7456AE;
   background: #fbeed5;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
