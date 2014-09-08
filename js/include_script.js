@@ -17,7 +17,6 @@ include('jquery.mobilemenu.js');
 include('scroll_to_top.js');
 include('ajax.js.switch.js');
 include('script.js');
-include('angular.js');
 //----Include-Function----
 function include(url){ 
   document.write('<script type="text/javascript" src="js/'+ url + '"></script>'); 
