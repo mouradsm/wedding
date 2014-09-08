@@ -36,6 +36,11 @@
 <div id="wrapper">
     <!--header-->
     <header>
+        <script type="text/javascript">
+
+
+
+        </script>
         <!--logo and company name-->
         <div class="container">
             <div class="row">
@@ -107,11 +112,15 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="span12">
+                <div class="span4">
                     <p>Érica & Diego &copy; 2014 | <a href="#">Privacy Policy</a></p>
                     <!-- {%FOOTER_LINK} -->
                 </div>
-                <div class="span12">
+                <div  class="span8 offset4">
+                    <div class="countdown"></div>
+                    <!--<h2>Faltam 20 dias</h2>-->
+                </div>
+                <div class="span8">
                     <div class="socIconsHolder">
                         <ul class="soc_icons">
                             <li><a href="#"><img src="img/soc_icon1.png" alt></a></li>
@@ -132,9 +141,17 @@
             $("#myModal").modal('show');
             sessionStorage.setItem("Session", false);
         }
+
+        (function(){
+            $('.countdown').countdown({//'2014/10/26', function(event) {
+                date: "October 26, 2014 18:00:00",
+                render: function(data) {
+                    $(this.el).html("<h2><div>" + this.leadingZeros(data.days, 2) + "<span>D</span>" + this.leadingZeros(data.hours, 2) + "<span>H</span>" + this.leadingZeros(data.min, 2) + "<span>M</span>" + this.leadingZeros(data.sec, 2) + "<span>s</span></div></h2>");
+                }
+
+            });
+        })();
     });
-
-
 </script>
 <!-- coded by Smart -->
 
