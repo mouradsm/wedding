@@ -36,11 +36,6 @@
 <div id="wrapper">
     <!--header-->
     <header>
-        <script type="text/javascript">
-
-
-
-        </script>
         <!--logo and company name-->
         <div class="container">
             <div class="row">
@@ -56,15 +51,14 @@
                                 <li><a href="#"><span>Utilidades</span><em></em></a>
                                     <ul class="nav sub-menu">
                                         <!--<li><a href="index-7.html">Dicas</a>-->
+                                        <li><a href="index-1.html">Dúvidas Frequentes</a></li>
                                         <li><a href="index-8.html">Confirmar Presença</a></li>
-                                        
                                         <!--    {# <ul class="nav sub-menu">
                                             <li><a href="index-6.html">Lorem ipsum</a></li>
                                             <li><a href="index-6.html">dolor sit</a></li>
                                             <li class="last"><a href="index-6.html">adipiscing</a></li>
                                         </ul>#}-->
-                                        <li><a href="index-6.html">Lista de Presentes</a></li>
-                                        <li class="last"><a href="index-1.html">Dúvidas Frequentes</a></li>
+                                        <li class="last"><a href="index-6.html">Lista de Presentes</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="index-0.html"><span>Seja nosso fotógrafo</span></a></li>
@@ -113,15 +107,11 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="span4">
+                <div class="span12">
                     <p>Érica & Diego &copy; 2014 | <a href="#">Privacy Policy</a></p>
                     <!-- {%FOOTER_LINK} -->
                 </div>
-                <div  class="span8 offset4">
-                    <div class="countdown"></div>
-                    <!--<h2>Faltam 20 dias</h2>-->
-                </div>
-                <div class="span8">
+                <div class="span12">
                     <div class="socIconsHolder">
                         <ul class="soc_icons">
                             <li><a href="#"><img src="img/soc_icon1.png" alt></a></li>
@@ -142,17 +132,9 @@
             $("#myModal").modal('show');
             sessionStorage.setItem("Session", false);
         }
-
-        (function(){
-            $('.countdown').countdown({//'2014/10/26', function(event) {
-                date: "October 26, 2014 18:00:00",
-                render: function(data) {
-                    $(this.el).html("<h2><div>" + this.leadingZeros(data.days, 2) + "<span>D</span>" + this.leadingZeros(data.hours, 2) + "<span>H</span>" + this.leadingZeros(data.min, 2) + "<span>M</span>" + this.leadingZeros(data.sec, 2) + "<span>s</span></div></h2>");
-                }
-
-            });
-        })();
     });
+
+
 </script>
 <!-- coded by Smart -->
 

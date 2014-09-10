@@ -17,7 +17,7 @@ include('jquery.mobilemenu.js');
 include('scroll_to_top.js');
 include('ajax.js.switch.js');
 include('script.js');
-include('jquery.countdown.js')
+include('jquery.countdown.js');
 //----Include-Function----
 function include(url){ 
   document.write('<script type="text/javascript" src="js/'+ url + '"></script>'); 
